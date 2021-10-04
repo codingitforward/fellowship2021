@@ -62,7 +62,7 @@ This repository features the slides that Fellows presented during their respecti
 
 **Erica Kong** is a recent graduate of the University of California, Berkeley, where she studied Computer Science and Data Science. This summer, Erica worked at the Internal Revenue Service on the Small Business/Self-Employed Research (SBR) team to evaluate and improve an existing prototype model to better perform case selection. Erica pulled data from several terabytes of records to help identify patterns and build risk models.
 
-**Erik Duxstad**
+**Erik Duxstad** is a rising Junior at Purdue University studying Computer Engineering. This summer he worked on an internal feedback survey and dashboard for the U.S Census Bureau to collect data about the level of service being provided by the Application Development Software Division. The goal of the project was to increase feedback and communication between branches of the Census Bureau and allow branches to track customer satisfaction.
 
 **Eshaan Agrawal** is a rising junior at the University of Georgia studying Computer Science and Cognitive Science. This summer, he worked in the Division of Data Integration, Modeling, and Analytics at the National Institute of General Medical Sciences within the National Institutes of Health. Eshaan developed a Natural Language Processing algorithm that enabled the office to determine whether grant proposals were related to health disparities or minority health in an effort to increase equity. He also developed a live dashboard that automates budget tracking for division and institute directors.
 
@@ -148,7 +148,7 @@ This repository features the slides that Fellows presented during their respecti
  
 **Neil Khurana** 
 
-**Nikasha Patel** 
+**Nikasha Patel** is a rising senior at the Massachusetts Institute of Technology studying Computation and Cognition. This summer, she worked at the U.S. Census Bureau in the Policy and Data Stewardship Branch, which is responsible for implementing agency-wide use of the Data Management System to register datasets and initiate projects. At the Bureau, registered datasets in the Data Management System (DMS) are required to list the location of their metadata in the Administrative Record share (ADREC), which is a data warehouse containing all the source metadata needed for datasets. However, many DMS datasets are missing links to their ADREC location, which makes it difficult for Bureau researchers and information owners to find the datasets they’re looking for. Nikasha utilized data cleaning and Natural Language Processing (NLP) techniques to find hundreds of missing ADREC locations efficiently and accurately so that researchers can find metadata quickly.
 
 **Noah Capucilli-Shatan** is a rising senior at Worcester Polytechnic Institute studying Computer Science. This summer, he worked at the U.S. Census Bureau on the Census and Survey Processing System (CSPro), a software program used for data collection and processing by statistics offices throughout the world, particularly in developing countries. Noah worked on several components of CSPro, but primarily focused on improving users' ability to analyze and visualize their data by generating reports and creating maps of their data.
 
@@ -172,7 +172,7 @@ This repository features the slides that Fellows presented during their respecti
 
 **Sarah Coloma** is a second-year master’s student at George Washington University studying Interaction Design. This summer, she worked at the General Services Administration - Technology Transformation Service as a Design Fellow on the Login.gov product. Sarah’s project focused on redesigning a sign-in interface to reduce customer support requests and empower users to more quickly self-diagnose and recover from their errors. 
 
-**Shana Hadi** 
+**Shana Hadi** is a senior at Stanford University studying Computer Science and English. This summer, Shana worked at the U.S. Census Bureau and created a full-stack web application to automate Justice Assistance Data Survey (JADS) tabulations. This resulted in a centralized system for fetching and managing data, a streamlined user interface, and reductions in manual user interventions, thus leading to time and cost savings.
 
 **Shira Abramovich** 
 
