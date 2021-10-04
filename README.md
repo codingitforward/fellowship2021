@@ -10,9 +10,6 @@ This repository features the slides that Fellows presented during their respecti
 ### About the Fellows 
 **_Kindly note that if a Fellow's biography does not have a link, their work is not publicly available or they presented their accomplishments during a panel discussion._**
 
-### Contact
-Please contact [fellowship@codingitforward.com](mailto:fellowship@codingitforward.com) with any questions.
-
 **Ahsanul Abeer** is a Senior at the City College of New York studying Business Administration with a focus on Technology Management. This summer, he worked at the General Services Administration on the Presidential Innovation Fellowship team to improve the usability of their website through heuristics evaluation, usability testing, and software development. His changes were made on the Fellows page of the website where he assisted in the deployment of the card layout of the main content and a filter system to filter fellows by specialty and year.
 
 **Akhil Kondepudi** is a rising senior at the University of Michigan studying Neuroscience and Computer Science. This summer, he worked at the General Services Administration Technology Transformation Service, where he maintained and developed software for the AI Grand Challenge for Resilience, a data science challenge aimed at utilizing text analytics to better understand the federal response to the COVID-19 pandemic.
@@ -206,4 +203,7 @@ Please contact [fellowship@codingitforward.com](mailto:fellowship@codingitforwar
 **Zoe Chyatte**
 
 **Zoe Zemper** is a rising senior at the University of Michigan studying Information Analysis & Cognitive Science. This summer, Zoe worked at the Bureau of Labor Statistics in the Quarterly Census of Employment and Wages program, a Federal-State program that partners with state tax
-departments to collect and publish employment and wage information at the local, county, and metropolitan-statistical levels. This Census is produced using two reports, one of which is the Multiple Worksite Report (MWR), which is mandatory in 31 states and required or requested of most multi-location employers with a total of 10 or more employees. This summer, Zoe used Python and SQLite to build a database to identify non-respondents of the MWR and produced data visualizations with MatPlotLib to analyze non-respondent data. 
+departments to collect and publish employment and wage information at the local, county, and metropolitan-statistical levels. This Census is produced using two reports, one of which is the Multiple Worksite Report (MWR), which is mandatory in 31 states and required or requested of most multi-location employers with a total of 10 or more employees. This summer, Zoe used Python and SQLite to build a database to identify non-respondents of the MWR and produced data visualizations with MatPlotLib to analyze non-respondent data.
+
+### Contact
+Please contact [fellowship@codingitforward.com](mailto:fellowship@codingitforward.com) with any questions.
