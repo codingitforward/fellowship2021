@@ -40,9 +40,9 @@ This repository features the slides that Fellows presented during their respecti
 
 **Brooke Tran**
 
-**Carsen Miller**
+**Carsen Miller** is a senior at the Georgia Institute of Technology studying Computer Science. This summer, he worked at Kessel Run on the K8s Services team, which is responsible for developing tools and resources to ensure an efficient and streamlined migration of all Kessel Run applications from Pivotal Cloud Foundry to Kubernetes. Carsen worked on user stories that capture this objective from various perspectives, from messaging services to API development. These experiences helped shape a comprehensive understanding of the work that goes into ensuring efficient development at a platform level with various technical and security dependencies.
 
-**Charlie Liu** is a sophomore at Yale University studying Computer Science and Ethics, Politics, and Economics. This summer, he worked as a Software Engineering Fellow at the General Services Administration Technology Transformation Service, working on the “Contact Elected Officials” page on the USA.gov website to make it easier for people to find their local elected officials while staying on the USA.gov website. This work is scheduled to launch on USA.gov in the near future.
+**Charlie Liu** is a sophomore at Yale University studying Computer Science and Ethics, Politics, and Economics. This summer, he worked as a Software Engineering Fellow at the General Services Administration Technology Transformation Service, working on the “Contact Elected Officials” page on the USA.gov website to make it easier for people to find their local elected officials while staying on the USA.gov website. This work is scheduled to launch on USA.gov in the near future. | [Presentation](Charlie_Liu_Jacob_Cuomo.pdf)
 
 **Chizobam Nwagwu** is a recent graduate of Carnegie Mellon University, where she studied Public Policy and Management. This summer, she worked at the U.S. Department of Health and Human Services in the Office of the Chief Data Officer on redesigning HealthData.gov, a data warehouse that fosters health innovation across the public, private, academic, and non-profit sectors. Chizobam worked to improve the accessibility of available health-related datasets by creating a streamlined user experience. | [Presentation](Bhav_Jain_Chizobam_Nwagwu.pdf)
 
