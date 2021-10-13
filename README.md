@@ -24,6 +24,8 @@ This repository features the slides that Fellows presented during their respecti
 
 **Anna Daccache** is a second-year master’s student at Northeastern University studying Computer Science. This summer, they worked at the Centers for Medicare and Medicaid Services to better understand the drivers of telemedicine use in Medicare and Medicaid eligible populations during the COVID-19 pandemic. Anna leveraged internal CMS datasets and external CDC and Microsoft datasets in their machine learning approach. 
 
+**Anna-Maria Gueorguieva** is a junior at the University of California, Berkeley studying Data Science and Legal Studies.
+
 **Annie Kim** is a recent graduate of Columbia University, where she studied Information Science and Art History. This summer, she worked with the Centers for Medicare and Medicaid (CMS) as a Design Fellow supporting an 8-week design sprint to design the UX and UI of the Provider Data Service website, making Medicare provider data more accessible, responsive, and accurate to users. | [Presentation](Annie_Kim.pdf)
 
 **Annika Lin** is a rising sophomore at Georgetown University studying Economics. This summer, she worked at the National Institutes of Health supporting the Science and Technology Research Infrastructure for Discovery, Experimentation, and Sustainability (STRIDES) Initiative. Her work involved automating the STRIDES billing report creation and distribution process, resulting in saving the STRIDES initiative 700 hours and $150k annually. In addition, Annika analyzed cloud billing and usage data in R to identify trends among service categories and organization types, resulting in Tableau data visualizations that were presented to the Office of Data Science Strategy and STRIDES team. | [Presentation](Annika_Lin.pdf)
@@ -34,7 +36,7 @@ This repository features the slides that Fellows presented during their respecti
 
 **Bhav Jain** is a rising junior at the Massachusetts Institute of Technology studying Computer Science and Brain & Cognitive Sciences. This summer, he worked at the U.S. Department of Health and Human Services in the Office of the Chief Data Officer on redesigning HealthData.gov, a data warehouse that fosters health innovation across the public, private, academic, and non-profit sectors. Bhav worked to improve the accessibility of available health-related datasets by creating a streamlined user experience. | [Presentation](Bhav_Jain_Chizobam_Nwagwu.pdf)
 
-**Bobby Wells**
+**Bobby Wells** is a recent graduate from Tufts University with a B.S. in Computer Science and Science, Technology, and Society Studies with a Focus in Mathematics and Modeling and a minor in French.
 
 **Brenda Li** is a first-year Master’s student at the University of Chicago studying Computational Analysis and Public Policy. This summer, she worked with the International Price Program at the Bureau of Labor Statistics on a project developing alternative import and export price indexes using administrative rather than survey data. She explored various research and data questions related to this task, including linking export transactions between the administrative and survey data sources to investigate how closely prices aligned and whether there was unit value bias. | [Presentation](Brenda_Li.pdf)
 
@@ -74,13 +76,13 @@ This repository features the slides that Fellows presented during their respecti
 
 **Helen Chung** is a recent graduate of the University of California, San Diego, where she received her Bachelor's degree in Data Science and Political Science. This summer, she worked with the Office of Prices and Living Conditions (OPLC) at the Bureau of Labor Statistics (BLS) on their Data Lakes Pilot Program.  During her time with BLS, she used cloud-based services to develop a data pipeline automating the process of acquiring and processing alternative price data used by programs producing Principal Federal Economic Indicators. | [Presentation](Helen_Chung.pdf)
 
-**Ifraz Ahmed** is in his final semester of graduate school at the University of Houston where he will obtain a Master of Science in Business Analytics. This summer, he worked at the Internal Revenue Service with the Small Business/Self Employed Research team to implement an R front end for Apache Spark. He was responsible for creating the SparkR environment, connecting to Hadoop, and performing ETL on the dataset. This project will make the team’s current workflow faster, more reliable, and more scalable. 
+**Ifraz Ahmed** is in his final semester of graduate school at the University of Houston where he will obtain a Master of Science in Business Analytics. This summer, he worked at the Internal Revenue Service with the Small Business/Self Employed Research team to implement an R front end for Apache Spark. He was responsible for creating the SparkR environment, connecting to Hadoop, and performing ETL on the dataset. This project will make the team’s current workflow faster, more reliable, and more scalable. | [Presentation](Ifraz_Ahmed.pdf) 
 
 **Jacob Cuomo** is a rising senior at Middle Tennessee State University studying Computer Science, Mathematics, and Data Science. This summer, he worked as a Software Engineering Fellow at the General Services Administration Technology Transformation Service, working on the “Contact Elected Officials” page on the USA.gov website to make it easier for people to find their local elected officials while staying on the USA.gov website. This work is scheduled to launch on USA.gov in the near future. | [Presentation](Charlie_Liu_Jacob_Cuomo.pdf)
 
 **Jake Tompkins** is a second-year master’s student at the University of California, Los Angeles studying Library and Information Science. This summer, he worked as a Design Fellow at the Internal Revenue Service (IRS), where he helped design a new process for submitting Form 911, a critical form used by taxpayers to request assistance from Taxpayer Advocate Services (TAS) if they are experiencing a systemic issue that can’t be resolved through normal channels. Previously, Form 911 was in a PDF format and required a taxpayer to print, fill out, scan, and fax/mail it to a TAS office. Jake created an expanded qualifier tool that helps ensure a taxpayer meets the criteria for Form 911 and built a new form in HTML that can be submitted electronically on a desktop computer or mobile device directly on the TAS website. | [Presentation](Jake_Tompkins.pdf)
 
-**James Scharf**
+**James Scharf** is a first-year master's student at Johns Hopkins University studying Computer Science.
 
 **Jane Boettcher** is a second-year master’s student at Stanford University studying Computer Science. This summer, she worked at the U.S. Census Bureau as a Data Science Fellow supporting the Criminal Justice Administrative Records System (CJARS), a nationally integrated repository of data following individuals through the criminal justice system. CJARS reports allow agencies, who provide data, to evaluate their data in a larger context and ensure the project is nationally representative. Jane developed an automatic statistical report generator for CJARS, making it easier for reports to be produced.
 
@@ -92,15 +94,15 @@ This repository features the slides that Fellows presented during their respecti
 
 **Jessica Shi** is a rising sophomore at Columbia University studying Operations Research. This summer, she worked at the U.S. Census Bureau as a Data Science Fellow supporting the Criminal Justice Administrative Records System (CJARS), a nationally integrated repository of data following individuals through the criminal justice system. CJARS reports allow agencies, who provide data, to evaluate their data in a larger context and ensure the project is nationally representative. Jessica developed an automatic statistical report generator for CJARS, making it easier for reports to be produced.
 
-**Joe Kerrigan**
+**Joe Kerrigan** is a junior at the University of Virginia studying Computer Science.
 
 **Joe Suh** is a second-year master’s student at the University of Pennsylvania studying computer science.  This summer, he worked at the U.S. General Services Administration in the Office of the CTO to build TechRadar—a product initiative to accelerate Federal emerging technology assessment, alignment, and action by converging crucial content, connections, and consensus on a central digital platform. 
 
 **Jordan Jomsky** is a recent graduate of the University of California, Berkeley where he studied Data Science and Molecular and Cell Biology. This summer, he worked in the Division of Data Integration, Modeling, and Analytics at the National Institute of General Medical Sciences within the National Institutes of Health. Jordan developed a Natural Language Processing algorithm that enabled the office to determine whether grant proposals were related to health disparities or minority health in an effort to increase equity. | [Presentation](Eshaan_Agrawal_Jordan_Jomsky.pdf)
 
-**Joseph Lee**
+**Joseph Lee** is a sophomore at William & Mary studying Computer Science.
 
-**Joshua Archibald**
+**Joshua Archibald** is a junior at Harvard College studying Computer Science.
 
 **Julian Grunauer** is a rising senior at Dartmouth College studying Computer Science and Cognitive Science. This summer, he worked at the Internal Revenue Service in the Office of Online Services on an inclusive design strategy centered around serving underrepresented taxpayer groups, such as those with limited English proficiency. Julian mapped out the current design process and determined design standards.
 
@@ -112,17 +114,17 @@ This repository features the slides that Fellows presented during their respecti
 
 **Katie Taylor** is a rising junior at Western Washington University majoring in Computer Science. This summer, they worked at the Census Bureau’s American Community Survey Office on a web-based Equal Employment Opportunity (EEO) Tables Tool for increasing data accessibility in EEO data dissemination, which is used to uphold equitable employment practices. They increased users’ ability to access data through the tool by 14 data tables (from 6 tables initially to 20 tables now) and improved the user interface for selecting the table and geography. | [Presentation](Katie_Taylor.pdf)
 
-**Katie Harris**
+**Katie Harris** is a first-year Master’s student at Carnegie Mellon University studying Public Policy and Data Analysis.
 
 **Kedar Garzon Gupta** is a recent graduate of the University of California, Los Angeles, where he studied Cognitive Science. This summer, he worked at the Internal Revenue Service supporting the Research, Applied Analytics, and Statistics Division. His project focused on translating IRS tax content into Spanish utilizing a Natural Language Processing model to help the IRS develop tools to translate English-based tax forms and create intelligent assistants to help Spanish-speaking taxpayers. | [Presentation](Kedar_Garzon_Gupta.pdf)
 
 **Kelemua Tesfaye** is a senior at Seattle University studying Applied Mathematics. This summer, Kelemua worked at the U.S. Census Bureau in the Income Statistics Branch, which is responsible for producing and disseminating income estimates across multiple household surveys. Hundreds of tables  from the Current Population Survey Annual Social and Economic Supplement are released annually providing detailed income estimates. Kelemua created a Python application to automate quality checks for the Detailed Income Tables produced as part of this annual release. | [Presentation](Kelemua_Tesfaye.pdf)
 
-**Kenisha Stills** 
+**Kenisha Stills** is a rising junior at Cornell University studying Computer Science with a focus on Public Policy and Cybersecurity.
  
 **Laura Fang** is a rising junior at Princeton University studying Operations Research and Financial Engineering. This summer, she worked at the U.S. Census Bureau's Center for Enterprise Dissemination to develop an automated algorithm using APIs and Natural Language Processing techniques to locate research publications that used Census Bureau datasets. | [Presentation](Laura_Fang.pdf)
 
-**Lia Chin-Purcell**
+**Lia Chin-Purcell** is a first-year Master's student at the University of California, Berkeley studying Information Management and Systems. 
 
 **Lotenna Nwobbi** is a recent graduate of Harvey Mudd College where he studied Mathematics, Environmental Science, and Computer Science. This summer, he worked at the Internal Revenue Service integrating network analysis into the agency's understanding of government contracts to visualize complex vendor and agency relationships and investigating fraud or bias in vendor procurement. | [Presentation](Lotenna_Nwobbi.pdf)
 
@@ -132,7 +134,7 @@ This repository features the slides that Fellows presented during their respecti
 
 **Lydia Hu** is a recent graduate of the University of Maryland, College Park with a degree in Computer Science. This summer, Lydia worked at the U.S. Census Bureau in the Demographic Directorate supporting the National Ambulatory Medical Care Survey, which provides data about the provision and use of ambulatory medical care services in the United States. She authored a paper that investigates and analyzes a group of potential Electronic Health Records data options for use for the National Ambulatory Medical Care Survey, as part of a larger effort to modernize the survey's collection of patient visit data. The paper identifies each data option's fitness with the survey's needs in areas such as geography and accessibility and identifies the gaps in understanding. | [Presentation](Lydia_Hu.pdf)
 
-**Madhav Aggarwal**
+**Madhav Aggarwal** is a junior at the University of Illinois at Urbana-Champaign studying Computer Science and Economics.
 
 **Mars Ikeda** is a recent graduate of the Bard Microcollege at the Brooklyn Public Library with an Associate's degree in Liberal Arts and will be continuing their education in Statistics & Data Sciences at Smith College. This summer, they worked at the National Institute of Arthritis, Musculoskeletal, and Skin Diseases within the National Institutes of Health to improve their data management in light of a new policy going into effect in 2023. Mars created a handbook called the Toolbox that had data management information, exercises, and a data flow map to prepare the researchers for the upcoming NIH policy in data management change. Through partner engagement, they also set up a Clean the Clutter Campaign that will use a phased approach to organizing data backlog. | [Presentation](Mars_Ikeda_Ralph_Buan.pdf)
 
@@ -146,7 +148,7 @@ This repository features the slides that Fellows presented during their respecti
 
 **Nathan Bartley** is a 4th year Ph.D. student at the University of Southern California studying Computer Science. This summer, he worked at the Bureau of Labor Statistics as a Data Science Fellow in the Office of Safety, Health, and Working Conditions to ensure the accuracy of the data used for the Survey of Occupational Injuries and Illnesses (SOII). SOII data is used by occupational safety and health professionals, private industry, state and local government, and researchers across the country to improve the safety of American workers; the safety and lives of millions of American workers rely, in part, on its accuracy. Nathan employed Natural Language Processing techniques to automate extraction from death certificates to verify the integrity of SOII data, with the longer-term goal of automating data ingestion. | [Presentation](Nathan_Bartley.pdf) 
  
-**Neil Khurana** 
+**Neil Khurana** is a rising senior at Harvard University studying Statistics. 
 
 **Nikasha Patel** is a rising senior at the Massachusetts Institute of Technology studying Computation and Cognition. This summer, she worked at the U.S. Census Bureau in the Policy and Data Stewardship Branch, which is responsible for implementing agency-wide use of the Data Management System to register datasets and initiate projects. At the Bureau, registered datasets in the Data Management System (DMS) are required to list the location of their metadata in the Administrative Record share (ADREC), which is a data warehouse containing all the source metadata needed for datasets. However, many DMS datasets are missing links to their ADREC location, which makes it difficult for Bureau researchers and information owners to find the datasets they’re looking for. Nikasha utilized data cleaning and Natural Language Processing (NLP) techniques to find hundreds of missing ADREC locations efficiently and accurately so that researchers can find metadata quickly. | [Presentation](Nikasha_Patel.pdf) 
 
@@ -174,7 +176,7 @@ This repository features the slides that Fellows presented during their respecti
 
 **Shana Hadi** is a senior at Stanford University studying Computer Science and English. This summer, Shana worked at the U.S. Census Bureau and created a full-stack web application to automate Justice Assistance Data Survey (JADS) tabulations. This resulted in a centralized system for fetching and managing data, a streamlined user interface, and reductions in manual user interventions, thus leading to time and cost savings. | [Presentation](Shana_Hadi.pdf)
 
-**Shira Abramovich** is a recent graduate from Brown University with a degree in Comparative Literature-Translation and Computer Science. This summer, she worked at the Bureau of Labor Statistics in the Office of Employment and Unemployment Statistics. Shira built a user interface for the record linkage of two surveys, the Quarterly Census of Employment and Wages and the Foreign Direct Investment, to empower analysts to complete their reviews more effectively and remove or add linkages as necessary. 
+**Shira Abramovich** is a recent graduate from Brown University with a degree in Comparative Literature-Translation and Computer Science. This summer, she worked at the Bureau of Labor Statistics in the Office of Employment and Unemployment Statistics. Shira built a user interface for the record linkage of two surveys, the Quarterly Census of Employment and Wages and the Foreign Direct Investment, to empower analysts to complete their reviews more effectively and remove or add linkages as necessary. | [Presentation](Shira_Abramovich.pdf) 
 
 **Simon Pastor** is an incoming first-year Master’s student at Yale University studying Public Policy with a specialization in Data Science in Politics. This summer, he worked at the Bureau of Labor Statistics in the Office of Productivity and Technology (OPT), which is responsible for measuring changes in productivity for industries and major sectors of the U.S. economy. Simon developed a tool that automated days of analysis and visualization to quickly extract important highlights and trends from new or revised data. | [Presentation](Simon_Pastor.pdf)
 
@@ -186,21 +188,21 @@ This repository features the slides that Fellows presented during their respecti
 
 **Sydney Trieu** is a recent graduate from the University of California, Berkeley with a degree in Data Science. This summer, Sydney worked at the Bureau of Labor Statistics on the Consumer Price Index (CPI), a measure of the average change over time in the prices of consumer items—goods and services that people buy for day-to-day living. The CPI is moving forward with replacing or supplementing data collected by in-person visits to stores across the country with price data from large corporate provided data sets or web scraped data. Sydney focused on procuring training data, built modeling infrastructure, and ​​developed an autoencoder to label third-party datasets of consumer items. | [Presentation](Sydney_Trieu.pdf)
 
-**Tim Lynch** is a rising senior at the University of North Carolina at Chapel Hill studying Statistics & Analytics / Economics. This summer, he worked as a Data Science Fellow at the U.S. Census Bureau in the Economic Statistical Methods Division. Tim’s project focused on evaluating and improving a data-driven methodology for generating product lists in the Economic Census. This methodology, known as the Triple-80 Approach, has the capacity to decrease respondent burden and improve data quality, but needed to be updated and reevaluated due to the introduction of a new system for classifying products.
+**Tim Lynch** is a rising senior at the University of North Carolina at Chapel Hill studying Statistics & Analytics / Economics. This summer, he worked as a Data Science Fellow at the U.S. Census Bureau in the Economic Statistical Methods Division. Tim’s project focused on evaluating and improving a data-driven methodology for generating product lists in the Economic Census. This methodology, known as the Triple-80 Approach, has the capacity to decrease respondent burden and improve data quality, but needed to be updated and reevaluated due to the introduction of a new system for classifying products. | [Presentation](Timothy_Lynch.pdf)
 
 **Tommy Nguyen** is a rising junior at Drexel University studying Computer Science. This summer, he worked at the U.S. Census Bureau on Census Academy, a platform that provides educational resources on the kinds of data available from the U.S. Census Bureau and promotes helpful tools that leverage this data. Tommy worked on Create Once Publish Everywhere (COPE), which aims to expand the work of Census Academy by providing a low-cost, flexible, built-with-modern-tooling platform that allows for more engaging educational and digital experiences. | [Presentation](Tommy_Nguyen.pdf)
 
 **Victor Kalil** is a rising senior at Washington University in St. Louis studying Computer Science. This summer, he worked on the Identity and Access Management team at the Internal Revenue Service. Victor created a technical cloud migration plan for the IRS’s newest identity and authentication system in collaboration with developers, analysts, and other team members. The migration plan details technologies, management strategies, and the latest National Institute of Standards and Technology guidelines that the system must meet. | [Presentation](Victor_Kalil.pdf)
 
-**Vishnu Karthik**
+**Vishnu Karthik** is a sophomore at the University of Michigan studying Computer Science.
 
 **William Huang** is a rising sophomore at the University of California, Los Angeles studying Electrical Engineering. This summer, he worked at the National Institutes of Health as a Data Science Fellow in the Office of AIDS Research (OAR). William supported OAR’s grantmaking efforts by developing a deep learning model that automated the manual encoding SIC codes, objective codes, and areas of emphasis for project abstracts. He also created a database system and visualizations to analyze the funding of different topic areas and the relationships between different funding offices across NIH.
 
-**Yashas Vaidya**
+**Yashas Vaidya** is a first-year master's student at the Georgia Institute of Technology studying Computer Science.
 
 **Yuyang  Zhong** is a recent graduate of the University of California, Berkeley with degrees in Psychology and Data Science. This summer, he worked at the National Institutes of Health as a Data Science Fellow in the Office of AIDS Research (OAR). William supported OAR’s grantmaking efforts by developing a deep learning model that automated the manual encoding SIC codes, objective codes, and areas of emphasis for project abstracts. He also created a database system and visualizations to analyze the funding of different topic areas and the relationships between different funding offices across NIH.
 
-**Zoe Chyatte**
+**Zoe Chyatte** is a rising sophomore at the University of California, Berkeley studying Cognitive Science. 
 
 **Zoe Zemper** is a rising senior at the University of Michigan studying Information Analysis & Cognitive Science. This summer, Zoe worked at the Bureau of Labor Statistics in the Quarterly Census of Employment and Wages program, a Federal-State program that partners with state tax
 departments to collect and publish employment and wage information at the local, county, and metropolitan-statistical levels. This Census is produced using two reports, one of which is the Multiple Worksite Report (MWR), which is mandatory in 31 states and required or requested of most multi-location employers with a total of 10 or more employees. This summer, Zoe used Python and SQLite to build a database to identify non-respondents of the MWR and produced data visualizations with MatPlotLib to analyze non-respondent data. | [Presentation](Zoe_Zemper.pdf)
