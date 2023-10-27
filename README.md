@@ -200,7 +200,7 @@ This repository features the slides that Fellows presented during their respecti
 
 **Yashas Vaidya** is a first-year master's student at the Georgia Institute of Technology studying Computer Science.
 
-**Yuyang  Zhong** is a recent graduate of the University of California, Berkeley with degrees in Psychology and Data Science. This summer, he worked at the National Institutes of Health as a Data Science Fellow in the Office of AIDS Research (OAR). William supported OAR’s grantmaking efforts by developing a deep learning model that automated the manual encoding SIC codes, objective codes, and areas of emphasis for project abstracts. He also created a database system and visualizations to analyze the funding of different topic areas and the relationships between different funding offices across NIH. | [Presentation](William_Huang_Yuyang_Zhong.pdf)
+**Yuyang  Zhong** is a recent graduate of the University of California, Berkeley with degrees in Psychology and Data Science. This summer, he worked at the National Institutes of Health as a Data Science Fellow in the Office of AIDS Research (OAR). Yuyang supported OAR’s grantmaking efforts by developing a deep learning model that automated the manual encoding SIC codes, objective codes, and areas of emphasis for project abstracts. He also created a database system and visualizations to analyze the funding of different topic areas and the relationships between different funding offices across NIH. | [Presentation](William_Huang_Yuyang_Zhong.pdf)
 
 **Zoe Chyatte** is a rising sophomore at the University of California, Berkeley studying Cognitive Science. 
 
